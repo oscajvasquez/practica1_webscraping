@@ -1,4 +1,4 @@
-# practica1_webscraping
+# practica1_webscraping - Práctica 1 - Tipología y Ciclo de Vida de los Datos
 Repositorio creado para la solución de la práctica 1 de la materia Tipología y ciclo de vida de los datos
 
 Autor: Oscar Javier Vásquez Casallas
