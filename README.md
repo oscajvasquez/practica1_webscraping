@@ -3,7 +3,9 @@ Repositorio creado para la solución de la práctica 1 de la materia Tipología 
 
 Autor: Oscar Javier Vásquez Casallas
 
-El respositorio está conformado por:
+Proyecto Dataset: Grupos de Investigación de la Corporación Colombiana de Investigación Agropecuaria AGROSAVIA
+
+El repositorio está conformado por:
   
   Carpeta dataset donde se encuentra Dataset_Final.csv el cual corresponde al dataset obtenido an la practica
   
